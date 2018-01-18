@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Катя Шикунова](https://up.htmlacademy.ru/adaptive/13/user/488385).
-* Наставник: `Неизвестно`.
+* Наставник: [Семен Бойко] (https://htmlacademy.ru/profile/id614127).
 
 ---
 
